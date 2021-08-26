@@ -1,8 +1,7 @@
 belajar branch dasar
 - mau belajar phython
-- mau bikin vlog
 - kuliah diluar negri
-- beasiswa
+- beasiswa turki
 - English Course
 - framework 
 - phython
